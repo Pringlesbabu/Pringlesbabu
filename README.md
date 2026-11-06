@@ -16,7 +16,6 @@
 <img src="https://img.shields.io/badge/FOCUS-TECHNOLOGY-111827?style=flat-square"/>
 </p>
 
-01 // THE INTRODUCTION
 
 I'm Pringlesbabu — a technology enthusiast passionate about transforming ideas into practical digital experiences.
 
@@ -38,7 +37,6 @@ const developer = {
     currentMission: "Turning complex ideas into simple solutions"
 };
 
-02 // THE TECH UNIVERSE
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,react,nodejs,html,css,git,github,docker&perline=6" alt="Developer technologies"/>
@@ -52,7 +50,7 @@ Domain	Exploration
 ☁️ Infrastructure	Exploring cloud and deployment technologies
 🧠 Problem Solving	Algorithms, logic, and engineering challenges
 🔬 Innovation	Experimenting with emerging technologies
-03 // THE DEVELOPER MINDSET
+
 
 <details>
 <summary>01. Simplicity is sophistication</summary>
@@ -82,7 +80,6 @@ A project should deliver real value, not simply look impressive.
 
 </details>
 
-04 // GITHUB COMMAND CENTER
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Pringlesbabu&show_icons=true&theme=transparent&hide_border=true&title_color=10b981&icon_color=10b981&text_color=cbd5e1&rank_icon=github" height="170" alt="GitHub overview"/>
@@ -93,13 +90,12 @@ A project should deliver real value, not simply look impressive.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pringlesbabu&theme=dark&hide_border=true&ring=10b981&fire=10b981&currStreakLabel=10b981" width="80%" alt="Contribution streak"/>
 </p>
 
-05 // THE CONTRIBUTION MATRIX
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Pringlesbabu/Pringlesbabu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
 </p>
 
-06 // BEYOND THE CODE
 
 I believe the best developers never stop being students.
 
